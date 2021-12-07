@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>菜單 on 安迪艾倫咖啡小館</title>
-    <link>https://examplesite.com/blog/</link>
+    <link>https://aaeic.github.io/AAEIC-HUGO-public/blog/</link>
     <description>Recent content in 菜單 on 安迪艾倫咖啡小館</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 15:40:24 +0600</lastBuildDate><atom:link href="https://examplesite.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Nov 2021 15:40:24 +0600</lastBuildDate><atom:link href="https://aaeic.github.io/AAEIC-HUGO-public/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>甜點 Dessert</title>
-      <link>https://examplesite.com/blog/post-1/</link>
+      <link>https://aaeic.github.io/AAEIC-HUGO-public/blog/post-1/</link>
       <pubDate>Sun, 14 Nov 2021 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/blog/post-1/</guid>
+      <guid>https://aaeic.github.io/AAEIC-HUGO-public/blog/post-1/</guid>
       <description>個人獨享限量手工甜點</description>
     </item>
     
     <item>
       <title>中餐</title>
-      <link>https://examplesite.com/blog/post-3/</link>
+      <link>https://aaeic.github.io/AAEIC-HUGO-public/blog/post-3/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/blog/post-3/</guid>
+      <guid>https://aaeic.github.io/AAEIC-HUGO-public/blog/post-3/</guid>
       <description>主廚私房菜 Eating with the chefs 海</description>
     </item>
     
     <item>
       <title>咖啡</title>
-      <link>https://examplesite.com/blog/post-2/</link>
+      <link>https://aaeic.github.io/AAEIC-HUGO-public/blog/post-2/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/blog/post-2/</guid>
+      <guid>https://aaeic.github.io/AAEIC-HUGO-public/blog/post-2/</guid>
       <description>咖啡 義式咖啡 Café</description>
     </item>
     
     <item>
       <title>西餐</title>
-      <link>https://examplesite.com/blog/menu-4/</link>
+      <link>https://aaeic.github.io/AAEIC-HUGO-public/blog/menu-4/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/blog/menu-4/</guid>
+      <guid>https://aaeic.github.io/AAEIC-HUGO-public/blog/menu-4/</guid>
       <description>義大利麵pasta 圓</description>
     </item>
     

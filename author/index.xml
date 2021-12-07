@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on 安迪艾倫咖啡小館</title>
-    <link>https://examplesite.com/author/</link>
+    <link>https://aaeic.github.io/AAEIC-HUGO-public/author/</link>
     <description>Recent content in Author on 安迪艾倫咖啡小館</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 15:40:24 +0600</lastBuildDate><atom:link href="https://examplesite.com/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Nov 2021 15:40:24 +0600</lastBuildDate><atom:link href="https://aaeic.github.io/AAEIC-HUGO-public/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ellen</title>
-      <link>https://examplesite.com/author/ellen/</link>
+      <link>https://aaeic.github.io/AAEIC-HUGO-public/author/ellen/</link>
       <pubDate>Sun, 14 Nov 2021 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/author/ellen/</guid>
+      <guid>https://aaeic.github.io/AAEIC-HUGO-public/author/ellen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Admin</title>
-      <link>https://examplesite.com/author/admin/</link>
+      <link>https://aaeic.github.io/AAEIC-HUGO-public/author/admin/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/author/admin/</guid>
+      <guid>https://aaeic.github.io/AAEIC-HUGO-public/author/admin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andy</title>
-      <link>https://examplesite.com/author/andy/</link>
+      <link>https://aaeic.github.io/AAEIC-HUGO-public/author/andy/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/author/andy/</guid>
+      <guid>https://aaeic.github.io/AAEIC-HUGO-public/author/andy/</guid>
       <description></description>
     </item>
     
