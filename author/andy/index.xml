@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy on 安迪艾倫咖啡小館</title>
+    <link>https://examplesite.com/author/andy/</link>
+    <description>Recent content in Andy on 安迪艾倫咖啡小館</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://examplesite.com/author/andy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>咖啡</title>
+      <link>https://examplesite.com/blog/post-2/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/post-2/</guid>
+      <description>咖啡 義式咖啡 Café</description>
+    </item>
+    
+    <item>
+      <title>咖啡</title>
+      <link>https://examplesite.com/drink-menu/coffee/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://examplesite.com/drink-menu/coffee/</guid>
+      <description>咖啡 義式咖啡 Café</description>
+    </item>
+    
+  </channel>
+</rss>
