@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>day on 安迪艾倫咖啡小館</title>
-    <link>https://aeicafe.github.io/tags/day/</link>
+    <link>https://aeicafe.com/tags/day/</link>
     <description>Recent content in day on 安迪艾倫咖啡小館</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://aeicafe.github.io/tags/day/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://aeicafe.com/tags/day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Works and Days</title>
-      <link>https://aeicafe.github.io/en/blog/post-1/</link>
+      <link>https://aeicafe.com/en/blog/post-1/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://aeicafe.github.io/en/blog/post-1/</guid>
+      <guid>https://aeicafe.com/en/blog/post-1/</guid>
       <description>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</description>
     </item>
     
     <item>
       <title>Works and Days</title>
-      <link>https://aeicafe.github.io/zh/blog/post-1/</link>
+      <link>https://aeicafe.com/zh/blog/post-1/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://aeicafe.github.io/zh/blog/post-1/</guid>
+      <guid>https://aeicafe.com/zh/blog/post-1/</guid>
       <description>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.</description>
     </item>
     

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>交通資訊 Traffic on 安迪艾倫咖啡小館</title>
-    <link>https://aeicafe.github.io/traffic/</link>
+    <link>https://aeicafe.com/traffic/</link>
     <description>Recent content in 交通資訊 Traffic on 安迪艾倫咖啡小館</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Dec 2021 03:38:31 +0800</lastBuildDate><atom:link href="https://aeicafe.github.io/traffic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Dec 2021 03:38:31 +0800</lastBuildDate><atom:link href="https://aeicafe.com/traffic/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
