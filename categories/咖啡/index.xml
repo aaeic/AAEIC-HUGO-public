@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>咖啡 on 安迪艾倫咖啡小館</title>
-    <link>https://aaeic.github.io/AAEIC-HUGO-public/categories/%E5%92%96%E5%95%A1/</link>
+    <link>https://aeicafe.github.io/categories/%E5%92%96%E5%95%A1/</link>
     <description>Recent content in 咖啡 on 安迪艾倫咖啡小館</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://aaeic.github.io/AAEIC-HUGO-public/categories/%E5%92%96%E5%95%A1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://aeicafe.github.io/categories/%E5%92%96%E5%95%A1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>咖啡</title>
-      <link>https://aaeic.github.io/AAEIC-HUGO-public/blog/post-2/</link>
+      <link>https://aeicafe.github.io/blog/post-2/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://aaeic.github.io/AAEIC-HUGO-public/blog/post-2/</guid>
+      <guid>https://aeicafe.github.io/blog/post-2/</guid>
       <description>咖啡 義式咖啡 Café</description>
     </item>
     
     <item>
       <title>咖啡 coffee</title>
-      <link>https://aaeic.github.io/AAEIC-HUGO-public/drink-menu/coffee/</link>
+      <link>https://aeicafe.github.io/drink-menu/coffee/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://aaeic.github.io/AAEIC-HUGO-public/drink-menu/coffee/</guid>
+      <guid>https://aeicafe.github.io/drink-menu/coffee/</guid>
       <description>咖啡 義式咖啡 Café</description>
     </item>
     

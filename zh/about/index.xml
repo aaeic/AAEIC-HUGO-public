@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on 安迪艾倫咖啡小館</title>
-    <link>https://aaeic.github.io/AAEIC-HUGO-public/zh/about/</link>
+    <link>https://aeicafe.github.io/zh/about/</link>
     <description>Recent content in About on 安迪艾倫咖啡小館</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://aaeic.github.io/AAEIC-HUGO-public/zh/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://aeicafe.github.io/zh/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
