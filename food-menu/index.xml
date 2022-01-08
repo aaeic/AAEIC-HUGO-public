@@ -17,12 +17,30 @@
     </item>
     
     <item>
-      <title>西餐</title>
-      <link>https://aeicafe.com/food-menu/food/</link>
+      <title>義大利麵pasta</title>
+      <link>https://aeicafe.com/food-menu/pasta/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://aeicafe.com/food-menu/food/</guid>
+      <guid>https://aeicafe.com/food-menu/pasta/</guid>
       <description>義大利麵pasta 圓</description>
+    </item>
+    
+    <item>
+      <title>燉飯 risotto</title>
+      <link>https://aeicafe.com/food-menu/risotto/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://aeicafe.com/food-menu/risotto/</guid>
+      <description>燉飯risotto 焗</description>
+    </item>
+    
+    <item>
+      <title>點心 Refreshment</title>
+      <link>https://aeicafe.com/food-menu/refreshment/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://aeicafe.com/food-menu/refreshment/</guid>
+      <description>點心 Refreshment 三明治 Sandwich 法式起</description>
     </item>
     
     <item>
