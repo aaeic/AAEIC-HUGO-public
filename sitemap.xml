@@ -2,79 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aeicafe.com/food-menu/cuisine/</loc>
-    <lastmod>2020-12-01T15:40:24+06:00</lastmod>
+    <loc>https://aeicafe.com/menus/food-menu/cuisine/</loc>
+    <lastmod>2022-02-10T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/food-menu/pasta/</loc>
+    <loc>https://aeicafe.com/menus/pasta/pasta/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/food-menu/risotto/</loc>
+    <loc>https://aeicafe.com/menus/risotto/risotto/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/food-menu/refreshment/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+    <loc>https://aeicafe.com/menus/refreshment/refreshment/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/menus/dessert/dessert/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/menus/coffee/coffee/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/menus/tea/tea/</loc>
+    <lastmod>2022-02-12T18:41:34+08:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/menus/</loc>
+    <lastmod>2022-02-12T18:46:00+08:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/menus/food-menu/</loc>
+    <lastmod>2022-02-12T18:46:00+08:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/</loc>
+    <lastmod>2022-02-12T18:46:00+08:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/menus/blended/</loc>
+    <lastmod>2022-02-12T18:46:00+08:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/menus/blended/blended/</loc>
+    <lastmod>2022-02-12T18:46:00+08:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/menus/alcohol/alcohol/</loc>
+    <lastmod>2022-02-12T18:42:26+08:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/author/andy/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/author/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/categories/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/tags/dessert/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/categories/dessert/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/author/ellen/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/tags/meal/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/tags/refreshment/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/tags/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/categories/%E5%92%96%E5%95%A1/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/categories/%E9%BB%9E%E5%BF%83/</loc>
+    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/tags/cuisine/</loc>
+    <lastmod>2022-02-10T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/categories/cuisine/</loc>
+    <lastmod>2022-02-10T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/traffic/</loc>
     <lastmod>2021-12-08T03:38:31+08:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/</loc>
-    <lastmod>2021-12-08T03:38:31+08:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/drink-menu/</loc>
-    <lastmod>2021-12-01T18:46:00+08:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/drink-menu/blended/</loc>
-    <lastmod>2021-12-01T18:46:00+08:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/drink-menu/alcohol/</loc>
-    <lastmod>2021-12-01T18:42:26+08:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/drink-menu/tea/</loc>
-    <lastmod>2021-12-01T18:41:34+08:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/author/</loc>
-    <lastmod>2021-11-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/categories/</loc>
-    <lastmod>2021-11-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/categories/dessert/</loc>
-    <lastmod>2021-11-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/tags/dessert/</loc>
-    <lastmod>2021-11-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/author/ellen/</loc>
-    <lastmod>2021-11-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/tags/</loc>
-    <lastmod>2021-11-14T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://aeicafe.com/blog/post-1/</loc>
-    <lastmod>2021-11-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/food-menu/dessert/</loc>
     <lastmod>2021-11-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/blog/</loc>
     <lastmod>2021-11-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/food-menu/</loc>
-    <lastmod>2021-11-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/tags/fashion/</loc>
-    <lastmod>2020-12-01T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/tags/lifestyle/</loc>
-    <lastmod>2020-12-01T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/categories/lifestyle/</loc>
-    <lastmod>2020-12-01T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://aeicafe.com/author/admin/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/author/andy/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/en/blog/</loc>
@@ -89,19 +104,22 @@
     <loc>https://aeicafe.com/en/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
+    <loc>https://aeicafe.com/tags/fashion/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url><url>
     <loc>https://aeicafe.com/en/blog/post-4/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/zh/blog/post-4/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/tags/meal/</loc>
+    <loc>https://aeicafe.com/tags/lifestyle/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://aeicafe.com/categories/lifestyle/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/categories/operations/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/tags/refreshment/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/en/blog/post-3/</loc>
@@ -143,22 +161,13 @@
     <loc>https://aeicafe.com/blog/post-3/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/categories/%E5%92%96%E5%95%A1/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://aeicafe.com/blog/post-2/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/drink-menu/coffee/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/categories/%E8%A5%BF%E9%A4%90/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/blog/menu-4/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/categories/%E9%BB%9E%E5%BF%83/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/about/</loc>
